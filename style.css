@@ -1,0 +1,129 @@
+/* ЦІ СТИЛІ РОЗРОБЛЕНІ ДЛЯ ЗАВДАННЯ СТВОРЕННЯ КНИГИ*/
+.f1 {
+    width: 155px;
+    height: 230px;
+    float: left;
+    margin-right: 10px;
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+h2 {
+    text-align: center;
+    font-size: 16px;
+    color: red;
+}
+.back {
+    display: block;
+    width: 100%;
+    background-color: lightgrey;
+}
+.par{
+    text-indent: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+ }
+.pos{
+    text-decoration: none;
+    color: green;
+    font-style: italic;
+}
+hr {
+    border: none;
+    background-color: black;
+    color: black;
+    height: 3px;
+}
+.gp{
+    text-align: right;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-right: 20px
+}
+span.gg{    font-weight: bold}
+.rig{   text-align: right;
+        margin-right: 20px
+}
+
+span.ii{ font-style: oblique}
+
+br{ line-height: 300%}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ЦІ СТИЛІ РОЗРОБЛЕНІ ДЛЯ ЗАВДАННЯ СТВОРЕННЯ ФІЛЬМУ*/
+.BD {
+    background-image: url(fon.png);
+    background-attachment: fixed;
+}
+.foto {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+.zagol {
+    text-align: left;
+    font-size: 30px;
+    color: aqua;
+    text-transform: uppercase;
+    line-height: initial;
+    font-style: italic;
+}
+.tit {
+    text-align: center;
+    color: gold;
+    font-size: 50px;
+}
+.tit2 {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+.photo {
+    width: 320px;
+    height: 240px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.a_href{
+    color: greenyellow;
+    text-decoration: none;
+}
+.a_href1{
+     color: red;
+     text-decoration: none;
+ }
+.text {
+    text-align: left;
+    font-size: 30px;
+    color: white;
+    font-style: revert;
+}
+.opis{
+    text-indent: 10px;
+    font-size: 20px;
+    color: gold;
+    margin-left: 20px;
+}
+
+
+
